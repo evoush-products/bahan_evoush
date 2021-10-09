@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Walkway";
+    src: local("Walkway"),
+     url(../fonts/walkway/Walkway.ttf.woff) format("truetype");
+}
